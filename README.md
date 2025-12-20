@@ -7,7 +7,7 @@
 
 
 **SuperTalent** is a modern, responsive **Job Marketplace Platform** built with React, Tailwind CSS, and Firebase Authentication.
-It connects talented professionals with employers by allowing users to **post, browse, and accept job
+It connects talented professionals with employers by allowing users to **post, browse, and accept jobs
 
 
 #  Live Preview 🌸
