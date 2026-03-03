@@ -34,7 +34,7 @@ It allows users to:
 - Post new job opportunities.
 - Browse available jobs.
 - Apply for jobs they’re interested in.
-- Manage their own added and accepted jobs from a secure dashboard.
+- Manage their own added and accepted jobs from a secure dashboards.
 
 The goal is to make job searching and hiring fast, easy, and trustworthy.
 
