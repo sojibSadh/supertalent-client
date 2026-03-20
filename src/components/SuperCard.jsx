@@ -13,7 +13,7 @@ export const SuperCard = ({ model }) => {
       </figure>
       <div className="card-body">
         <h4 className=" text-[14px] text-[#222222] dark:text-purple-500">{title}</h4>
-        <p className="line-clamp-2  text-lg font-medium text-[#222222]/90 dark:text-gray-400  hover:text-[#a465f9]/70">
+        <p className="line-clamp-2  text-lg font-medium text-[#222222]/90 dark:text-gray-300  hover:text-[#a465f9]/70">
           {summary}
         </p>
         <div className="flex justify-between pt-4 mt-3 border-t border-gray-300 items-center">
